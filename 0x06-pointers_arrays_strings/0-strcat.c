@@ -1,10 +1,10 @@
-#include "main.h"
+#incude "main.h"
 
 /**
- * _strcat - concatenates two strings,
+ * _strcat - concatennates two strings
  * @dest: copy to
  * @src: copy from
- * Return: the pointer to dest
+ * Return: pointer to dest
  */
 char *_strcat(char *dest, char *src)
 {
