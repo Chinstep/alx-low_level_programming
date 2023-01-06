@@ -2,8 +2,8 @@
 /**
  * palindromeChecker - checks the strings
  * @str: the string to be checked
- * @len: tge lengthof the string
- * i@: the incrementor, start at 0
+ * @len: the length of the string
+ * @i: the incrementor, start at 0
  * Return: 1 if it's a palindrome, 0 if it's not
  */
 int palindromeChecker(char *str, int len, int i)

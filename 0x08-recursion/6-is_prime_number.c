@@ -25,7 +25,7 @@ int evaluate_num(int num, int ilerator)
 	return (0);
 }
 /**
- * is _prime_number - evaluate prime or not
+ * is_prime_number - evaluate prime or not
  * @num: number
  * Return: return 1 prime - return 0 otherwise
  */
